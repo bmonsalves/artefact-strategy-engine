@@ -24,7 +24,7 @@
     --muted: 220 14% 96%;
     --muted-foreground: 220 10% 46%;
 
-    --accent: 336 100% 50%;
+    --accent: 219 100% 56%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -32,18 +32,18 @@
 
     --border: 220 13% 91%;
     --input: 220 13% 91%;
-    --ring: 0 100% 65%;
+    --ring: 229 54% 31%;
 
     --radius: 0.625rem;
 
     --sidebar-background: 0 0% 100%;
     --sidebar-foreground: 220 20% 10%;
-    --sidebar-primary: 0 100% 65%;
+    --sidebar-primary: 229 54% 31%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 0 100% 97%;
-    --sidebar-accent-foreground: 0 100% 45%;
+    --sidebar-accent: 219 100% 56%;
+    --sidebar-accent-foreground: 229 54% 31%;
     --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 0 100% 65%;
+    --sidebar-ring: 229 54% 31%;
 
     --artefact-red: 229 54% 31%;
     --artefact-red-light: 229 54% 95%;
@@ -64,21 +64,21 @@
     --secondary-foreground: 0 0% 100%;
     --muted: 220 14% 14%;
     --muted-foreground: 220 10% 56%;
-    --accent: 336 50% 12%;
-    --accent-foreground: 336 100% 65%;
+    --accent: 219 100% 40%;
+    --accent-foreground: 0 0% 100%;
     --destructive: 0 62% 30%;
     --destructive-foreground: 210 40% 98%;
     --border: 220 14% 18%;
     --input: 220 14% 18%;
-    --ring: 0 100% 65%;
+    --ring: 229 54% 31%;
     --sidebar-background: 220 20% 8%;
     --sidebar-foreground: 210 20% 96%;
     --sidebar-primary: 229 54% 31%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 336 50% 12%;
-    --sidebar-accent-foreground: 336 100% 65%;
+    --sidebar-accent: 219 100% 40%;
+    --sidebar-accent-foreground: 219 100% 65%;
     --sidebar-border: 220 14% 18%;
-    --sidebar-ring: 0 100% 65%;
+    --sidebar-ring: 229 54% 31%;
   }
 }
 
@@ -99,7 +99,7 @@
 
 @layer utilities {
   .artefact-gradient {
-    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(0 80% 55%) 100%);
+    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(219 100% 56%) 100%);
   }
   .artefact-glow {
     box-shadow: 0 4px 24px -4px hsl(var(--primary) / 0.3);
