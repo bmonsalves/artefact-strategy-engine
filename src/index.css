@@ -38,12 +38,12 @@
 
     --sidebar-background: 0 0% 100%;
     --sidebar-foreground: 220 20% 10%;
-    --sidebar-primary: 0 100% 65%;
+    --sidebar-primary: 229 54% 31%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 0 100% 97%;
-    --sidebar-accent-foreground: 0 100% 45%;
+    --sidebar-accent: 219 100% 56%;
+    --sidebar-accent-foreground: 229 54% 31%;
     --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 0 100% 65%;
+    --sidebar-ring: 229 54% 31%;
 
     --artefact-red: 229 54% 31%;
     --artefact-red-light: 229 54% 95%;
