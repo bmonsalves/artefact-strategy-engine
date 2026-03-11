@@ -15,17 +15,17 @@
     --popover: 0 0% 100%;
     --popover-foreground: 220 20% 10%;
 
-    --primary: 0 100% 65%;
+    --primary: 229 54% 31%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 14% 96%;
-    --secondary-foreground: 220 20% 10%;
+    --secondary: 219 100% 56%;
+    --secondary-foreground: 0 0% 100%;
 
     --muted: 220 14% 96%;
     --muted-foreground: 220 10% 46%;
 
-    --accent: 0 100% 97%;
-    --accent-foreground: 0 100% 65%;
+    --accent: 336 100% 50%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
@@ -45,9 +45,9 @@
     --sidebar-border: 220 13% 91%;
     --sidebar-ring: 0 100% 65%;
 
-    --artefact-red: 0 100% 65%;
-    --artefact-red-light: 0 100% 97%;
-    --artefact-red-border: 0 100% 65%;
+    --artefact-red: 229 54% 31%;
+    --artefact-red-light: 229 54% 95%;
+    --artefact-red-border: 229 54% 31%;
     --artefact-dark: 220 20% 10%;
   }
 
@@ -58,14 +58,14 @@
     --card-foreground: 210 20% 96%;
     --popover: 220 20% 9%;
     --popover-foreground: 210 20% 96%;
-    --primary: 0 100% 65%;
+    --primary: 229 54% 31%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 220 14% 14%;
-    --secondary-foreground: 210 20% 96%;
+    --secondary: 219 100% 40%;
+    --secondary-foreground: 0 0% 100%;
     --muted: 220 14% 14%;
     --muted-foreground: 220 10% 56%;
-    --accent: 0 40% 12%;
-    --accent-foreground: 0 100% 75%;
+    --accent: 336 50% 12%;
+    --accent-foreground: 336 100% 65%;
     --destructive: 0 62% 30%;
     --destructive-foreground: 210 40% 98%;
     --border: 220 14% 18%;
@@ -73,10 +73,10 @@
     --ring: 0 100% 65%;
     --sidebar-background: 220 20% 8%;
     --sidebar-foreground: 210 20% 96%;
-    --sidebar-primary: 0 100% 65%;
+    --sidebar-primary: 229 54% 31%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 0 40% 12%;
-    --sidebar-accent-foreground: 0 100% 75%;
+    --sidebar-accent: 336 50% 12%;
+    --sidebar-accent-foreground: 336 100% 65%;
     --sidebar-border: 220 14% 18%;
     --sidebar-ring: 0 100% 65%;
   }
